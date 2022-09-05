@@ -7,7 +7,7 @@ else:
 
 school_name=input('Enter your school name : ')
 
-if school_name=='HASMTAL':
+if school_name=='Diyarbakır Ak47 yetistiriciligi'
     print('best schooll')
 else:
     print('regular school')
